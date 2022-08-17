@@ -35,11 +35,24 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app:
+“*” Encountered problems with the button.setOnClickListener section as I initially stuck with the 
+default button.setOnClickListener() instead of the intended button.setOnClickListener{}, which had me 
+creating a separate private class which still was'nt running. Took me about 20 minutes to figure out 
+the problem here.
+“*” I got the error message "initial commit failed android studio. cannot read..." when initially 
+trying to commit the file onto github. I was able to get that section sorted out by following 
+the tutorial on this page "https://blog.krybot.com/a?ID=00550-ed7d47ea-3066-4792-990b-43345d3669ff"
+I tried to upload this link onto this just in case it does not exist by the time you are viewing this:
+"https://web.archive.org/web/20220817224434/https://blog.krybot.com/a?ID=00550-ed7d47ea-3066-4792-990b-43345d3669ff"
+
+
+
+
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [Mikias Abeje]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
