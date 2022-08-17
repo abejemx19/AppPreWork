@@ -36,7 +36,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app:
-*Encountered problems with the button.setOnClickListener section as I initially stuck with the 
+* Encountered problems with the button.setOnClickListener section as I initially stuck with the 
 default button.setOnClickListener() instead of the intended button.setOnClickListener{}, which had me 
 creating a separate private class which still was'nt running. Took me about 20 minutes to figure out 
 the problem here.
